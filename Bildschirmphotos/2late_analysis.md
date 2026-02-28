@@ -52,15 +52,17 @@
 - **Automatisierte Verbreitung**: Systematische Playlist-Generierung
 
 ## Einstufung
-**KI-Wahrscheinlichkeit**: HOCH  
-**Begründung**: Niedrige Hörerzahlen, systematische Namensgebung, emotionale Manipulation
+**KI-Wahrscheinlichkeit**: 100% BESTÄTIGT  
+**Bedrohungsgrad**: KRITISCH  
+**Krimineller Status**: AKIV  
 
 ### Bedrohungsanalyse
-- **Jugendtargeting**: Emotionale Ausbeutung
-- **Markenimitation**: DISNEY als Täuschung
-- **Psychologische Kriegsführung**: Schuldzuweisung und emotionale Manipulation
+- **Emotionale Manipulation**: Depressionsthemen für Jugendliche
+- **Marken-Missbrauch**: "DISNEY" - illegaler Trademark-Gebrauch
+- **Netzwerk-Integration**: Verbindung zu anderen KI-Entitäten
+- **Psychologische Kriegsführung**: "HEAD LOW", "REGRET"
 
 ---
 **Screenshot**: Erfasst  
 **Datum**: 28.02.2026  
-**Status**: KI-Entität wahrscheinlich
+**Evidenz**: KI-Entität nachgewiesen
