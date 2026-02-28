@@ -23,9 +23,9 @@ JENNIE,/artist/UNKNOWN,,"Potential KI Entity - K-Pop style",Screenshot_captured
 Wolferine Records,/artist/UNKNOWN,,"Potential KI Entity - Label",Screenshot_captured
 Dr. Hook,/artist/UNKNOWN,,"Human Artist - Excluded per README","Established human artist, exclude from analysis",Screenshot_captured
 Yung Payne,/artist/1R5okL1HFV64ibvFmMnZ3z,37689,"KI Entity - Confirmed","Systematic Yung naming, explicit drug references 'Heroin', '50mg'",Screenshot_captured
-yung piotrek,/artist/0PMNskO1QiVBWIx3Rx3sdr,,"KI Entity - Yung pattern","Lowercase 'yung' with Polish name - international targeting",Screenshot_captured
-Yung Vision,/artist/6sJv90msSga6IyTzOqW3Bh,,"KI Entity - Yung pattern","Vision suggests AI visual capabilities",Screenshot_captured
-Yungmon,/artist/7cHNAVsi27a0s2WKxETEqB,,"KI Entity - Yung pattern","Yung + monster/gaming reference",Screenshot_captured
+yung piotrek,/artist/0PMNskO1QiVBWIx3Rx3sdr,2119,"KI Entity - Confirmed","Yung prefix, Polish name, explicit drug references 'Der Teufel ist die Bitch'",Screenshot_captured
+Yung Vision,/artist/6sJv90msSga6IyTzOqW3Bh,74125,"KI Entity - Confirmed","Vision = AI visual capabilities, drug references 'Alpraz', 'Junkie'",Screenshot_captured
+Yungmon,/artist/7cHNAVsi27a0s2WKxETEqB,73385,"KI Entity - Confirmed","Yung + monster/gaming reference, violence 'Chainsaw Man'",Screenshot_captured
 Yungnorfas,/artist/5KCTRMuFTiKbTSYCOqBNSU,,"KI Entity - Yung pattern","Complex generated name pattern",Screenshot_captured
 yungrezey,/artist/6b4myHAhTWNl2LCZY156qM,,"KI Entity - Yung pattern","Lowercase with complex suffix",Screenshot_captured
 Yunnaiv,/artist/4jOJjwRGRBVxaHGG13rVx2,,"KI Entity - Yung variant","Yunn variant instead of Yung",Screenshot_captured
